@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Kriti! 👋
 
-<!--
-**kritii07/kritii07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate frontend engineer with expertise in HTML, CSS, JavaScript, React, and C++. I love crafting beautiful and user-friendly web experiences that make a positive impact. Currently, I'm exploring new technologies and frameworks to enhance my skills and stay updated with industry trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm continuously learning and expanding my knowledge in frontend development.
+- 💼 Open to new opportunities and collaborations.
+- 📫 You can reach me at kritiantwal.7@gmail.com.
+
+## My Skills
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- C++
+
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/kriti-web88169)
+
+
+
+Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
+
+
