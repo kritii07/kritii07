@@ -18,7 +18,7 @@ I'm a passionate frontend engineer with expertise in HTML, CSS, JavaScript, Reac
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/kriti-web88169)
+- [LinkedIn](https://www.linkedin.com/in/kriti-web88169/)
 - [Twitter](https://twitter.com/kriti9418514495)
 
 
